@@ -37,7 +37,7 @@ Necessario: [Java], [Netbeans IDEA] e [PgAdmin4]
 
 1 - Fazer o download do projeto
 ```sh
-git clone https://github.com/Gustavocorrea0/TCC-ADS-2024.git
+git clone https://github.com/viniciuscamacho230/TCC_ADS_2024.git
 ```
 2 - Extrair projeto <br>
 3 - Iniciar [Netbeans IDEA], buscar projeto e abri-lo <br><br>

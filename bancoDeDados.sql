@@ -1,5 +1,5 @@
 /*
-    author:GUSTAVO ALFREDO
+    author:VINICIUS CAMACHO & GUSTAVO ALFREDO
 */
 CREATE TABLE usuario (
     id SERIAL PRIMARY KEY,
